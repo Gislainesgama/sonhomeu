@@ -259,3 +259,70 @@ body {
     .content-container h1 {
       font-size: 2rem;  
     }
+
+    @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+      .link-container {
+        flex-direction: row; 
+        padding: 10px;
+      }
+    
+      .content-container {
+        width: 60%; 
+        margin-top: 10px;
+        padding: 20px;
+      }
+    
+      .company-history {
+        width: 40%; 
+        margin-top: -10px;
+        margin-right: -10px;
+        background-color: rgba(0, 0, 0, 0.6); 
+      }
+      .company-history img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin-bottom: 30px;
+        margin-top: 50px; 
+        border: 3px solid white;
+      }
+    
+      .logo-photo {
+        width: 200px;  
+        height: 200px; 
+        margin-top: 15px;
+      }
+    
+      .whatsapp-button {
+        width: 180px; 
+        font-size: 1.4rem;
+        margin-top: 30px;
+        margin-bottom: 50px;
+      }
+    
+      .carousel-container {
+        bottom: 10px; 
+        width: 85%; 
+        left: 7.5%; 
+      }
+    
+      .carousel-container .slick-slide img {
+        width: 150px;
+        height: 150px;
+      }
+    
+      .next-arrow,
+      .prev-arrow {
+        width: 45px;
+        height: 45px;
+        font-size: 20px;
+      }
+    
+      .next-arrow {
+        right: -60px;
+      }
+    
+      .prev-arrow {
+        left: -60px;
+      }
+    }

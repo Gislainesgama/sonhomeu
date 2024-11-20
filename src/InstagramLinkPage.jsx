@@ -47,9 +47,12 @@ const InstagramLinkPage = () => {
       <aside className="company-history">
         <img src={img7} alt="Dinah Gama" className="company-photo" />
         <h2>Sobre Nós</h2>
-        <p>Com 15 anos de tradição, a Sonho Meu Decorações é uma empresa pioneira em nossa cidade, reconhecida por sua dedicação e qualidade. Em 2022, tivemos a honra de receber o prêmio "Profissionais do Ano", um reconhecimento ao nosso compromisso com a excelência.
+        <p>
+Com 15 anos de tradição, Sonho Meu Decorações é uma das pioneiras em nossa cidade, reconhecida por sua dedicação e qualidade. Em 2022, tivemos a honra de receber o prêmio "Profissionais do Ano", um reconhecimento ao nosso compromisso com a excelência.
 
-Fundada por Dinah Gama, a Sonho Meu Decorações se especializa em criar ambientes inesquecíveis para festas infantis, celebrações de quinze anos, casamentos e decorações em geral. Transformamos momentos especiais em memórias eternas, trazendo o sonho de cada cliente à realidade.</p>
+Fundada por Dinah Gama, a Sonho Meu Decorações se especializa em criar ambientes inesquecíveis para festas infantis, celebrações de quinze anos, casamentos e decorações em geral. Transformamos momentos especiais em memórias eternas, trazendo o sonho de cada cliente à realidade.
+
+Além disso, trabalhamos com projetos em 2D, permitindo que o cliente visualize sua festa antes de acontecer, garantindo que cada detalhe esteja de acordo com suas expectativas.</p>
       </aside>
 
       <div className="carousel-container">
