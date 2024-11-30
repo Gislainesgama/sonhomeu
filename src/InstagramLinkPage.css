@@ -196,7 +196,7 @@ body {
       left: -45px;
     }
   }
-    @media (max-width: 385px) { 
+    @media (max-width: 480px) { 
       
     
     .link-container {
@@ -214,7 +214,7 @@ body {
     }
     .company-history {
       width: 100%;  
-      margin-bottom: 80px; 
+      margin-bottom: 30px; 
       padding: 10px 15px;
     }
     .whatsapp-button {
@@ -228,8 +228,8 @@ body {
   }
 
     .carousel-container .slick-slide img {
-      width: 60px;  
-      height: 60px;
+      width: 70px;  
+      height: 70px;
       margin: 0 4px;
     }
     .carousel-container {
